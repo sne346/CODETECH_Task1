@@ -1,0 +1,11 @@
+void setup ()
+{
+pinMode(6,OUTPUT); //set pin 6 (LED) as OUTPUT
+}
+void loop() 
+{
+digitalWrite (6,HIGH); // set logic level to High low
+delay(1000); // do nothing for 1 second
+digitalWrite (6,LOW); // set logic level to low off)
+selay(1000);
+}
