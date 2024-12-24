@@ -3,7 +3,7 @@
 **ID**: CT08DS147  
 **Domain**: EMBEDDED SYSTEMS  
 **Duration**: NOVEMBER 30th, 2024 to DECEMBER 30th, 2024  
-**Mentor**: 
+**Mentor**: Neela Santhosh Kumar
 
 ### **Overview of the Project**
 
